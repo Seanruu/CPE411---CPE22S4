@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://pa1.aminoapps.com/6467/b450dfd2472ee756f7f31872ddd4c2fcd77fc87f_00.gif"  />
+  <img height="150" src="https://media.tenor.com/6E7leki5u_AAAAAM/until-then-until-then-game.gif"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%F0%9D%95%8A%F0%9D%95%96%F0%9D%95%92%F0%9D%95%9F%20%F0%9D%94%BE%F0%9D%95%9A%F0%9D%95%A5%E2%84%8D%F0%9D%95%A6%F0%9D%95%93&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=67&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%F0%9D%95%8A%F0%9D%95%96%F0%9D%95%92%F0%9D%95%9F%20%F0%9D%94%BE%F0%9D%95%9A%F0%9D%95%A5%E2%84%8D%F0%9D%95%A6%F0%9D%95%93&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=67&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
@@ -23,11 +23,11 @@
 
 ###
 
-<p align="left">Name: Sean Ingles<br>Age: 19 years old<br>PROGRAM: BSCPE<br>Track Elective course: Human-Computer Interaction</p>
+<p align="left">Name: Sean Ingles<br>Age: 19 years old<br>PROGRAM: BSCPE<br>TRACK ELECTIVE: Human-Computer Interaction</p>
 
 ###
 
-<h4 align="left">Hello! I'm Sean Ingles, a Computer Engineering Student at T.I.P. QC<br><br>My hobbies are listening to music, playing games, and tkd</h4>
+<h4 align="left">Hello! I'm Sean Ingles, a Computer Engineering Student at T.I.P. QC<br><br>I am still learning to improve my skills on coding especially on game development, I like listening to music while studying and on my free time I play games and on weekends I train taekwondo and do jogs.<br><br>I am a dedicated learner and would love to learn more about game development and coding.</h4>
 
 ###
 
@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanruu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="500" src="https://cdnb.artstation.com/p/assets/images/images/032/039/673/original/isabel-erien-armentero-amanecer-permanente.gif?1605292767"  />
 </div>
 
 ###
